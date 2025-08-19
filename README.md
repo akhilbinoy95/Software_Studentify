@@ -89,7 +89,7 @@ This software will be installed on a single computer where students can come to 
 
 ## System Architecture
 
-![System Architecture](./arche.jpg)
+![System Architecture](arche.jpg)
 
 ## UML 
 
