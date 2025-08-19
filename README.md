@@ -95,7 +95,7 @@ This software will be installed on a single computer where students can come to 
 
 ### Class Diagram
 
-![Class](./UML/ClassDiagram1.jpg)
+![Class](./ClassDiagram1.jpg)
 
 ### Use Case Diagram
 
